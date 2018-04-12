@@ -11,8 +11,8 @@ public class Test {
         ll.display();  
         ll.remove(2); 
         ll.display();
-//        ll.deleteFirst();  
-//        ll.display();  
+        ll.deleteFirst();  
+        ll.display();  
 //        ll.remove(3);  
 //        ll.display();  
         System.out.println(ll.find(1));  
